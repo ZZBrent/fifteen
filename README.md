@@ -1,4 +1,4 @@
 # fifteen
-A pseudo-random number generator that also tries to find a number based in the pseudorandom list of numbers up to a certain ceiling.
+A console version of the popular sliding tile puzzle game.
 
-Please note I did this project as part of a computer science course at Harvard University and cannot take credit for any of the code presented in the helper portion of this project.
+Please note I did this project as part of a computer science course at Harvard University and the questions section of this commit was part of the requirements for this project in this course.
